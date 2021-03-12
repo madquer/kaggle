@@ -1,4 +1,5 @@
 # Kaggle Public notebook
+kaggle code page link : [MADQUER](https://www.kaggle.com/madquer/code)
 
 ## 1. Machine learning competition
 1) [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand) : [Bike sharing demand - EDA and Baseline](https://www.kaggle.com/madquer/bike-sharing-demand-eda-and-baseline)
