@@ -8,3 +8,4 @@ kaggle code page link : [MADQUER](https://www.kaggle.com/madquer/code)
 ## 2. Deep learning competition
 1) [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews) : [practice_Sentiment_movie_reviews](https://www.kaggle.com/madquer/practice-sentiment-movie-reviews/) 
 2) [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial/data) : [practice_bagOfWords](https://www.kaggle.com/madquer/practice-bagofwords/)
+3) [Human Protein Atlas - Single Cell Classification](https://www.kaggle.com/c/hpa-single-cell-image-classification) : [[HPA] Generate masks knowledge - bin mask encoding](https://www.kaggle.com/madquer/hpa-generate-masks-knowledge-bin-mask-encoding)
